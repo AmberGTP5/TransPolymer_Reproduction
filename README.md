@@ -1,9 +1,10 @@
 ## This is a paper reproduction project.
 ### The following functions are implemented:
-1. Pre-training of large language models.
-2. Fine-tuning of the model, with k-fold of 2.
-3. Attention Visualization
-4. t-SNE Visualization
+1. Add Chinese comments for main codes
+2. Pre-training of large language models.
+3. Fine-tuning of the model, with k-fold of 2.
+4. Attention Visualization
+5. t-SNE Visualization
 
 ## TransPolymer ##
 
